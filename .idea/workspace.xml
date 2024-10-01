@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3761bffe-4c35-4ebe-8c5e-3b3d033faa21" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/entity/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/entity/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/entity/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/entity/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/entity/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/entity/Instructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/entity/Piste.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/entity/Piste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/entity/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/entity/Registration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/entity/Skier.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/entity/Skier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/entity/Subscription.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/entity/Subscription.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/entity/Support.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/entity/Support.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/entity/TypeCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/entity/TypeCourse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/entity/TypeSubscription.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/entity/TypeSubscription.java" afterDir="false" />
-    </list>
+    <list default="true" id="efc4b3c8-6804-4ee9-92da-52d2325cabe1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,38 +23,68 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
-  <component name="ProjectId" id="2mpy010BQyxk7GnGYKK6zH81c05" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mWCeAo2o7mg3ASA0zlqZMovg5n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Negam/Desktop/twinprojet5",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Negam\Desktop\twinprojet5\demo\src\main\java\com" />
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+      <command value="mvn skip" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringbootprojetApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springbootprojet" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="SpringbootprojetApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3761bffe-4c35-4ebe-8c5e-3b3d033faa21" name="Changes" comment="" />
-      <created>1727787585498</created>
+      <changelist id="efc4b3c8-6804-4ee9-92da-52d2325cabe1" name="Changes" comment="" />
+      <created>1727183038609</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1727787585498</updated>
-      <workItem from="1727787586592" duration="41000" />
+      <updated>1727183038609</updated>
+      <workItem from="1727183040184" duration="6260000" />
+      <workItem from="1727779355084" duration="1420000" />
+      <workItem from="1727786711127" duration="74000" />
+      <workItem from="1727787352280" duration="143000" />
+      <workItem from="1727787800161" duration="5032000" />
     </task>
     <servers />
   </component>
